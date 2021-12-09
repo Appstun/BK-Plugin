@@ -1,0 +1,16 @@
+name: Ban-Kick-Plugin
+version: 2.3
+main: de.appstun.bk_plugin.main
+api-version: 1.16
+authors: [Appstun]
+description: Kleines Plugin von Appstun zum Kicken und Bannen von Spielern.
+
+commands:
+  kick:
+    description: Kicke einen bestimmten Spieler mit einem Grund vom Server.
+  ban:
+    description: Banne einen bestimmten Spieler mit einem Grund vom Server.
+  unban:
+    description: Entbanne einen bestimmten Spieler.
+  banlist:
+    description: Lass dir die aktuellen Bans anzeigen.
