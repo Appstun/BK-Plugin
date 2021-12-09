@@ -1,4 +1,4 @@
-*Das Plugin wurde im Programm Intelli IDEA geschrieben.
+*Das Plugin wurde im Programm Intelli IDEA geschrieben.*
 
 # bk-plugin
 Ein Plugin zum Bannen, Entbannen, Kicken von Spielern.
