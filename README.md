@@ -6,7 +6,7 @@ Ein Plugin zum Bannen, Entbannen, Kicken von Spielern.
 Version: 2.3
 
 Befehle:
-  - /kick <[Spieler]> *<[Begründung]>*    --- Kicke einen bestimmten Spieler mit einem Grund vom Server.
+  - /kick <[Spieler]> *<[Begründung]>*    --- Kicke einen bestimmten Spieler mit einem oder keinen Grund vom Server.
   - /ban <[Spieler]> <[Begründung]>       --- Banne einen bestimmten Spieler mit einem Grund vom Server.
   - /unban <[Spieler]>                    --- Entbanne einen bestimmten Spieler.
   - /banlist                              --- Lass dir die aktuellen Bans anzeigen.
