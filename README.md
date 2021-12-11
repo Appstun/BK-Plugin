@@ -21,4 +21,4 @@ Sprache:
   
   
 Config.yml:
-  - man kann nur den Prifix änder
+  - man kann nur den Prefix ändern
