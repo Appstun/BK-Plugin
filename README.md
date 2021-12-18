@@ -4,6 +4,7 @@
 Ein Plugin zum Bannen, Entbannen, Kicken von Spielern.
 
 Version: 2.3
+Erstellt ab der Minecraft-Version 1.17.
 
 Befehle:
   - /kick <[Spieler]> *<[Begründung]>*    --- Kicke einen bestimmten Spieler mit einem oder keinen Grund vom Server.
